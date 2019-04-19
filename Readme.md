@@ -28,4 +28,4 @@ Second, by interacting with the interface, we combines experience from domain ex
 
 ### 2.2.3 Limitations and Suggestions
 
-During the interview, the experts also mentioned the limitations of our interface and provided valuable suggestions. First, it can be difficult for them to identify insights if the images are not well organized, for example, the order of the buses are disrupted. Therefore, an automatic insight  suggestion method should be provided. Second, they not only need to identify threatening oscillation modes, but also need to know their threatening level. Therefore, a threat assessment method is expected to be involved.
+During the interview, the experts also mentioned the limitations of our interface and provided valuable suggestions. First, it can be difficult for them to identify insights if the images are not well organized, for example, the order of the buses are disrupted. Therefore, an automatic insight  suggestion method should be provided. Second, they not only need to identify threatening oscillation modes, but also need to know their threatening level. Therefore, a threat assessment method is expected to be involved.  
